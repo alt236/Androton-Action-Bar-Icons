@@ -12,4 +12,4 @@ Made for [Androton](http://www.indiegogo.com/projects/androton-open-source/x/313
 
 ### Icons list
 
-![Icons list](http://i.imgur.com/5Xa7rnm.png)
+![Icons list](http://i.imgur.com/WkeNIkR.png)
